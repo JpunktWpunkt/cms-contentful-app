@@ -34,3 +34,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.idea
+contentful-import-error-log-0tvgj01e8f6b-2022-09-29T11-05-15.json
